@@ -30,12 +30,12 @@ O projeto está alinhado com o **ODS 11: Cidades e Comunidades Sustentáveis** (
 
 | Data Inicial | Data Final | Atividade | Responsável |
 | :--- | :--- | :--- | :--- |
-| 01/03/2026 | 10/03/2026 | Levantamento de Requisitos e Modelagem UML (Diagramas) | Lorenzzo Michelim |
-| 11/03/2026 | 20/03/2026 | Criação do Banco de Dados MySQL e Script DER | Vinicius Meggiato |
-| 21/03/2026 | 05/04/2026 | Estruturação da Arquitetura MVC e Classes Base em Java | Lorenzzo Michelim |
-| 06/04/2026 | 20/04/2026 | Implementação do Módulo de Cadastro de Usuários e Vagas | Vinicius Meggiato |
-| 21/04/2026 | 05/05/2026 | Implementação do Módulo de Reservas, Pagamentos e Regras de Multa | Lorenzzo Michelim |
-| 06/05/2026 | 20/05/2026 | Testes do Sistema, Ajustes de Interface e Documentação Final | Vinicius Meggiato |
+| 01/08/2026 | 05/08/2026 | Levantamento de Requisitos e Modelagem UML (Diagramas) | Lorenzzo Michelim |
+| 06/08/2026 | 10/08/2026 | Criação do Banco de Dados MySQL e Script DER | Vinicius Meggiato |
+| 11/08/2026 | 15/08/2026 | Estruturação da Arquitetura MVC e Classes Base em Java | Lorenzzo Michelim |
+| 16/08/2026 | 20/08/2026 | Implementação do Módulo de Cadastro de Usuários e Vagas | Vinicius Meggiato |
+| 21/08/2026 | 25/08/2026 | Implementação do Módulo de Reservas, Pagamentos e Regras de Multa | Lorenzzo Michelim |
+| 26/08/2026 | 31/08/2026 | Testes do Sistema, Ajustes de Interface e Documentação Final | Vinicius Meggiato |
 
 ---
 
